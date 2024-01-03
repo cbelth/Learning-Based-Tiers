@@ -48,7 +48,7 @@ class SegmentInventory:
         feature_vec = self.seg_to_feats[ipa_seg]
         seg = Segment(ipa_seg, feature_vec)
         self.segments.add(seg)
-        self.feats_to_segment[seg._hashable] = seg
+        self.feats_to_segment[','.join(str(f) for f in seg.feature_vec)] = seg
         self.ipa_to_segment[f'{seg}'] = seg
         return True
 
