@@ -26,16 +26,16 @@ All examples assume that you are running from the ```src/``` directory. If this 
 
 ### Loading Data
 
-Below is an example of how to load the German corpus.
+Below is an example of how to load the Turkish CHILDES corpus.
 
 ```python
 >> from utils import load
->> pairs, freqs = load('../data/german/ger.txt', skip_header=True)
+>> pairs, freqs = load('../data/turkish/childes.txt', skip_header=True)
 ```
 
-### Running PLP
+### Running D2L
 
-Here is an example of running PLP on the first 1K words from the German corpus. See above for loading (UR, SR) pairs.
+Here is an example of running D2L on the first 1K words from the Turkish CHILDES corpus. See above for loading (UR, SR) pairs.
 
 ```python
 >> from plp import PLP
