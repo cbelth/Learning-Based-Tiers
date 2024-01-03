@@ -1,0 +1,7 @@
+uf	pred	sf
+perfamiliaLis	perfamilialis	perfamiliaris
+maniplaLis	maniplalis	maniplaris
+medulaLis	medulalis	medularis
+epulaLis	epulalis	epularis
+appelaLis	appelalis	appelaris
+primipilaLis	primipilalis	primipilaris

@@ -1,0 +1,7 @@
+uf	pred	sf
+solaLis	solalis	solaris
+maksilaLis	maksilalis	maksilaris
+tabulaLis	tabulalis	tabularis
+medulaLis	medulalis	medularis
+appelaLis	appelalis	appelaris
+famniliaLis	famnilialis	famniliaris

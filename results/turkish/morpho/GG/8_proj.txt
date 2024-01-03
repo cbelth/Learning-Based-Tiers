@@ -1,0 +1,8 @@
+-cons	[+round][+wb]	(o|u|y|ø)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(<#|#>)
+-cons	[+wb][+wb]	(<#|#>)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(<#|#>)
+-cons	[+round][-round,+hi]	(o|u|y|ø)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(i|ɯ)
+-cons	[-back][+back]	(e|i|y|ø)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(o|u|ɑ|ɯ)
+-cons	[+wb][+back,-round,+hi]	(<#|#>)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(ɯ)
+-cons	[+round][-hi]	(o|u|y|ø)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(e|o|ø|ɑ)
+-cons	[+back][-back]	(o|u|ɑ|ɯ)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(e|i|y|ø)
+-cons	[+wb][-round][+wb]	(<#|#>)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(e|i|ɑ|ɯ)(b|d|f|g|h|j|k|l|m|n|p|r|s|t|v|w|z|ɰ|ʃ|ʒ|ʤ|ʧ)*(<#|#>)

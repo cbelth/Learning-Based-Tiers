@@ -1,0 +1,7 @@
+uf	pred	sf
+eksemplaLis	eksemplalis	eksemplaris
+surkulaLis	surkulalis	surkularis
+latiaLis	latialis	latiaris
+maniplaLis	maniplalis	maniplaris
+etfamiliaLis	etfamilialis	etfamiliaris
+kolaLis	kolalis	kolaris

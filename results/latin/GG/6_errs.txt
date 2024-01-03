@@ -1,0 +1,15 @@
+uf	pred	sf
+pastoraLis	pastoraris	pastoralis
+perliberaLis	perliberaris	perliberalis
+awernaLis	awernaris	awernalis
+trabaLis	trabaris	trabalis
+esuriaLis	esuriaris	esurialis
+tripedaLis	tripedaris	tripedalis
+pertaLis	pertaris	pertalis
+trigonaLis	trigonaris	trigonalis
+memoriaLis	memoriaris	memorialis
+sepulkraLis	sepulkraris	sepulkralis
+wolataLis	wolataris	wolatalis
+litoraLis	litoraris	litoralis
+wiraLis	wiraris	wiralis
+kentumwiraLis	kentumwiraris	kentumwiralis

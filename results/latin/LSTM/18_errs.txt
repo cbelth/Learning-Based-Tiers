@@ -1,0 +1,9 @@
+uf	pred	sf
+uulgaLis	uulgalis	uulgaris
+maksilaLis	maksilalis	maksilaris
+tabulaLis	tabulalis	tabularis
+maniplaLis	maniplalis	maniplaris
+medulaLis	medulalis	medularis
+epulaLis	epulalis	epularis
+famniliaLis	famnilialis	famniliaris
+primipilaLis	primipilalis	primipilaris

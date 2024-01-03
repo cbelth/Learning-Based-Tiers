@@ -1,0 +1,8 @@
+uf	pred	sf
+interkalaLis	interkalalis	interkalaris
+solaLis	solalis	solaris
+maksilaLis	maksilalis	maksilaris
+pedikulaLis	pedikulalis	pedikularis
+surkulaLis	surkulalis	surkularis
+appelaLis	appelalis	appelaris
+primipilaLis	primipilalis	primipilaris

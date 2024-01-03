@@ -1,0 +1,15 @@
+uf	pred	sf
+inrationaLis	inrationaris	inrationalis
+penetraLis	penetraris	penetralis
+matronaLis	matronaris	matronalis
+kentraLis	kentraris	kentralis
+kadrigaLis	kadrigaris	kadrigalis
+krinaLis	krinaris	krinalis
+ruminaLis	ruminaris	ruminalis
+riuaLis	riuaris	riualis
+triumuiraLis	triumuiraris	triumuiralis
+wolataLis	wolataris	wolatalis
+wrginaLis	wrginaris	wrginalis
+artifikiaLis	artifikiaris	artifikialis
+latiaLis	latiaris	latialis
+dekemwiraLis	dekemwiraris	dekemwiralis

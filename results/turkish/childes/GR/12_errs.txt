@@ -1,0 +1,14 @@
+uf	pred	sf
+suDA	sutɑ	sudɑ
+dɑktiloDA	dɑktilotɑ	dɑktilodɑ
+bɑnjoDA	bɑnjotɑ	bɑnjodɑ
+sɑklAnAʤAk	sɑkleneʤek	sɑklɑnɑʤɑk
+hɑvH	hɑvi	hɑvɯ
+gitDHkDAn	gitdikten	gittikten
+hɑlH	hɑlɯ	hɑli
+ɑrkɑDAki	ɑrkɑdeki	ɑrkɑdɑki
+sɑɑtmH	sɑɑtmɯ	sɑɑtmi
+bɑʃmHzA	bɑʃmize	bɑʃmɯzɑ
+ɑmʤɑnHzA	ɑmʤɑnize	ɑmʤɑnɯzɑ
+burɑDAkilAr	burɑdekiler	burɑdɑkiler
+koʃmADAn	koʃmɑdɑn	koʃmɑtɑn

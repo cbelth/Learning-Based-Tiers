@@ -1,0 +1,11 @@
+uf	pred	sf
+wolgaLis	wolgalis	wolgaris
+urkeolaLis	urkeolalis	urkeolaris
+solaLis	solalis	solaris
+pedikulaLis	pedikulalis	pedikularis
+surkulaLis	surkulalis	surkularis
+maniplaLis	maniplalis	maniplaris
+medulaLis	medulalis	medularis
+epulaLis	epulalis	epularis
+etfamiliaLis	etfamilialis	etfamiliaris
+primipilaLis	primipilalis	primipilaris

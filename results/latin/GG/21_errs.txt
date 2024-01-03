@@ -1,0 +1,17 @@
+uf	pred	sf
+moraLis	moraris	moralis
+maritaLis	maritaris	maritalis
+inkorporaLis	inkorporaris	inkorporalis
+awernaLis	awernaris	awernalis
+kentraLis	kentraris	kentralis
+korporaLis	korporaris	korporalis
+palmipedaLis	palmipedaris	palmipedalis
+trigonaLis	trigonaris	trigonalis
+krinaLis	krinaris	krinalis
+dorsuaLis	dorsuaris	dorsualis
+originaLis	originaris	originalis
+lustraLis	lustraris	lustralis
+wolataLis	wolataris	wolatalis
+latrokinaLis	latrokinaris	latrokinalis
+litoraLis	litoraris	litoralis
+wrginaLis	wrginaris	wrginalis

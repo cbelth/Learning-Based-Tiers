@@ -1,0 +1,3 @@
+uf	pred	sf
+perfamiliaLis	perfamilialis	perfamiliaris
+latiaLis	latialis	latiaris

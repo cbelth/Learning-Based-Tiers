@@ -1,0 +1,3 @@
+uf	pred	sf
+wolgaLis	wolgalis	wolgaris
+etfamiliaLis	etfamilialis	etfamiliaris

@@ -1,0 +1,5 @@
+uf	pred	sf
+pæivækirjɑmerkintOjen	pæivækirjɑmerkintojen	pæivækirjɑmerkintøjen
+koreogrɑfiAkilpɑilUn	koreogrɑfiækilpɑilun	koreogrɑfiɑkilpɑilun
+hɑydnistA	hɑydnistæ	hɑydnistɑ
+pikkuleivistA	pikkuleivistɑ	pikkuleivistæ

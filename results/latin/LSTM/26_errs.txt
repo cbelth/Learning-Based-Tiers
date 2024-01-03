@@ -1,0 +1,7 @@
+uf	pred	sf
+palmaLis	palmalis	palmaris
+kapulaLis	kapulalis	kapularis
+maksilaLis	maksilalis	maksilaris
+medulaLis	medulalis	medularis
+epulaLis	epulalis	epularis
+kolaLis	kolalis	kolaris

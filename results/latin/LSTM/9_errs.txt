@@ -1,0 +1,6 @@
+uf	pred	sf
+perfamiliaLis	perfamilialis	perfamiliaris
+pedikulaLis	pedikulalis	pedikularis
+latiaLis	latialis	latiaris
+medulaLis	medulalis	medularis
+appelaLis	appelalis	appelaris

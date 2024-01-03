@@ -1,0 +1,4 @@
+uf	pred	sf
+kadrigaLis	kadrigaris	kadrigalis
+latiaLis	latialis	latiaris
+etfamiliaLis	etfamilialis	etfamiliaris

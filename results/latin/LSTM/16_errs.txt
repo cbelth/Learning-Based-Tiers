@@ -1,0 +1,7 @@
+uf	pred	sf
+solaLis	solalis	solaris
+pedikulaLis	pedikulalis	pedikularis
+appelaLis	appelalis	appelaris
+famniliaLis	famnilialis	famniliaris
+etfamiliaLis	etfamilialis	etfamiliaris
+kolaLis	kolalis	kolaris

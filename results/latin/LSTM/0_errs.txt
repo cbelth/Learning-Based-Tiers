@@ -1,0 +1,6 @@
+uf	pred	sf
+maksilaLis	maksilalis	maksilaris
+pedikulaLis	pedikulalis	pedikularis
+surkulaLis	surkulalis	surkularis
+maniplaLis	maniplalis	maniplaris
+etfamiliaLis	etfamilialis	etfamiliaris

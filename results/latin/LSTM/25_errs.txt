@@ -1,0 +1,3 @@
+uf	pred	sf
+latiaLis	latialis	latiaris
+wolataLis	wolataris	wolatalis

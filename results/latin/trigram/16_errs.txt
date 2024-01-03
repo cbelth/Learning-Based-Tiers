@@ -1,0 +1,3 @@
+uf	pred	sf
+famniliaLis	famnilialis	famniliaris
+etfamiliaLis	etfamilialis	etfamiliaris

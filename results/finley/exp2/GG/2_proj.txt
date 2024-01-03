@@ -1,0 +1,1 @@
+-strid	[-wb][-wb]	(b|d|g|k|m|n|p|t)(a|e|i|o|s|u|ʃ)*(b|d|g|k|m|n|p|t)

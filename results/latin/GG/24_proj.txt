@@ -1,0 +1,3 @@
+-lat	[-wb][-cor]	(b|d|f|g|h|k|m|n|p|r|s|t|w)(a|e|i|l|o|u)*(b|f|g|h|k|m|p|w)
+-lat	[-con][+wb]	(b|d|g|k|m|n|p|t)(a|e|i|l|o|u)*(<#|#>)
+-lat	[-son][-son,-high]	(b|d|f|g|h|k|p|s|t)(a|e|i|l|o|u)*(b|d|f|h|p|s|t)

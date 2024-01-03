@@ -1,0 +1,7 @@
+uf	pred	sf
+solaLis	solalis	solaris
+perfamiliaLis	perfamilialis	perfamiliaris
+maksilaLis	maksilalis	maksilaris
+latiaLis	latialis	latiaris
+medulaLis	medulalis	medularis
+kolaLis	kolalis	kolaris

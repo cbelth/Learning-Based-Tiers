@@ -1,0 +1,15 @@
+uf	pred	sf
+ekstemporaLis	ekstemporaris	ekstemporalis
+inkorporaLis	inkorporaris	inkorporalis
+awernaLis	awernaris	awernalis
+libraLis	libraris	libralis
+inliberaLis	inliberaris	inliberalis
+formaLis	formaris	formalis
+palmipedaLis	palmipedaris	palmipedalis
+armentaLis	armentaris	armentalis
+ruminaLis	ruminaris	ruminalis
+dorsuaLis	dorsuaris	dorsualis
+sepulkraLis	sepulkraris	sepulkralis
+terminaLis	terminaris	terminalis
+wiraLis	wiraris	wiralis
+arwaLis	arwaris	arwalis

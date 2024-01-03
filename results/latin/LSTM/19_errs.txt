@@ -1,0 +1,8 @@
+uf	pred	sf
+uulgaLis	uulgalis	uulgaris
+palmaLis	palmalis	palmaris
+latiaLis	latialis	latiaris
+epulaLis	epulalis	epularis
+appelaLis	appelalis	appelaris
+etfamiliaLis	etfamilialis	etfamiliaris
+primipilaLis	primipilalis	primipilaris

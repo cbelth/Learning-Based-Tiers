@@ -1,0 +1,8 @@
+uf	pred	sf
+uulgaLis	uulgalis	uulgaris
+solaLis	solalis	solaris
+kapulaLis	kapulalis	kapularis
+tabulaLis	tabulalis	tabularis
+pedikulaLis	pedikulalis	pedikularis
+appelaLis	appelalis	appelaris
+etfamiliaLis	etfamilialis	etfamiliaris

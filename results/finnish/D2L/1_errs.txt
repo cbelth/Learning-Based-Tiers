@@ -1,0 +1,8 @@
+uf	pred	sf
+kuluttAjAhintɑindeksistA	kuluttɑjɑhintɑindeksistɑ	kuluttɑjɑhintɑindeksistæ
+mɑnttelinperijOitA	mɑnttelinperijoitɑ	mɑnttelinperijøitæ
+hɑllintoihmisiA	hɑllintoihmisiɑ	hɑllintoihmisiæ
+mææræɑikɑistileillA	mææræɑikɑistileillɑ	mææræɑikɑistileillæ
+ɑrvomerkkinsA	ɑrvomerkkinsɑ	ɑrvomerkkinsæ
+hɑydnistA	hɑydnistæ	hɑydnistɑ
+pikkuleivistA	pikkuleivistɑ	pikkuleivistæ

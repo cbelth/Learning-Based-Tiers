@@ -1,0 +1,6 @@
+uf	pred	sf
+pæivækirjɑmerkintOjen	pæivækirjɑmerkintojen	pæivækirjɑmerkintøjen
+koreogrɑfiAkilpɑilUn	koreogrɑfiækilpɑilun	koreogrɑfiɑkilpɑilun
+mææræɑikɑistileillA	mææræɑikɑistileillɑ	mææræɑikɑistileillæ
+toimenpiteenAAn	toimenpiteenɑɑn	toimenpiteenææn
+hɑydnistA	hɑydnistæ	hɑydnistɑ

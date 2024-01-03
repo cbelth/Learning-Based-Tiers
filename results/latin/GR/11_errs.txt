@@ -1,0 +1,8 @@
+uf	pred	sf
+solaLis	solalis	solaris
+kapulaLis	kapulalis	kapularis
+maksilaLis	maksilalis	maksilaris
+latiaLis	latialis	latiaris
+maniplaLis	maniplalis	maniplaris
+epulaLis	epulalis	epularis
+primipilaLis	primipilalis	primipilaris

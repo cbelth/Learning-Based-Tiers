@@ -1,0 +1,17 @@
+uf	pred	sf
+ekstemporaLis	ekstemporaris	ekstemporalis
+awernaLis	awernaris	awernalis
+esuriaLis	esuriaris	esurialis
+tripedaLis	tripedaris	tripedalis
+inliberaLis	inliberaris	inliberalis
+palmipedaLis	palmipedaris	palmipedalis
+kommortaLis	kommortaris	kommortalis
+armentaLis	armentaris	armentalis
+krinaLis	krinaris	krinalis
+ruminaLis	ruminaris	ruminalis
+triumuiraLis	triumuiraris	triumuiralis
+dorsuaLis	dorsuaris	dorsualis
+litoraLis	litoraris	litoralis
+wrginaLis	wrginaris	wrginalis
+arwaLis	arwaris	arwalis
+dekemwiraLis	dekemwiraris	dekemwiralis

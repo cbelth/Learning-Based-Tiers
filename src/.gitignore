@@ -1,0 +1,8 @@
+temp/
+__pycache__/
+gg/data/
+gg/output_baseline/
+gg/program_trace.txt
+gg/word_lengths/
+gg/sims/
+gg/projections/

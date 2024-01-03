@@ -1,0 +1,11 @@
+uf	pred	sf
+palmaLis	palmalis	palmaris
+perfamiliaLis	perfamilialis	perfamiliaris
+kapulaLis	kapulalis	kapularis
+maksilaLis	maksilalis	maksilaris
+surkulaLis	surkulalis	surkularis
+latiaLis	latialis	latiaris
+maniplaLis	maniplalis	maniplaris
+medulaLis	medulalis	medularis
+appelaLis	appelalis	appelaris
+primipilaLis	primipilalis	primipilaris

@@ -1,0 +1,4 @@
++ant	[-wb][-lat]	(b|d|l|m|n|p|t)(e|g|i|k|o|u|ɹ)*(b|d|m|n|p|t)
++ant	[+son,-nas][-wb]	(l)(e|g|i|k|o|u|ɹ)*(b|d|l|m|n|p|t)
++ant	[-lab,-lat][+wb]	(d|n|t)(e|g|i|k|o|u|ɹ)*(<#|#>)
++ant	[-wb][+lab][+wb]	(b|d|l|m|n|p|t)(e|g|i|k|o|u|ɹ)*(b|m|p)(e|g|i|k|o|u|ɹ)*(<#|#>)

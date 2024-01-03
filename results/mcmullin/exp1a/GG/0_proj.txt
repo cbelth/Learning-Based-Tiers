@@ -1,0 +1,5 @@
+-nas	[-son][+wb]	(b|d|g|k|p|t)(e|i|m|n|o|u)*(<#|#>)
++cons	[+son,-nas][+ant,-lat]	(l|ɹ)(e|i|o|u)*(b|d|m|n|p|t)
+-nas	[-wb][-son,-cor]	(b|d|g|k|l|p|t|ɹ)(e|i|m|n|o|u)*(b|g|k|p)
++cons	[+son,+ant][-lat]	(l|m|n)(e|i|o|u)*(b|d|g|k|m|n|p|t|ɹ)
++cons	[+wb][][+son,-nas]	(<#|#>)(e|i|o|u)*(<#|#>|b|d|g|k|l|m|n|p|t|ɹ)(e|i|o|u)*(l|ɹ)

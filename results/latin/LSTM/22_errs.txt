@@ -1,0 +1,11 @@
+uf	pred	sf
+urkeolaLis	urkeolalis	urkeolaris
+solaLis	solalis	solaris
+kapulaLis	kapulalis	kapularis
+maksilaLis	maksilalis	maksilaris
+latiaLis	latialis	latiaris
+maniplaLis	maniplalis	maniplaris
+medulaLis	medulalis	medularis
+epulaLis	epulalis	epularis
+appelaLis	appelalis	appelaris
+kolaLis	kolalis	kolaris

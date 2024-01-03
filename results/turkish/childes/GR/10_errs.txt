@@ -1,0 +1,11 @@
+uf	pred	sf
+suDA	sutɑ	sudɑ
+bɑnjoDA	bɑnjotɑ	bɑnjodɑ
+hɑvH	hɑvi	hɑvɯ
+hɑlH	hɑlɯ	hɑli
+sɑɑtmH	sɑɑtmɯ	sɑɑtmi
+bɑʃmHzA	bɑʃmize	bɑʃmɯzɑ
+ɑmʤɑnHzA	ɑmʤɑnize	ɑmʤɑnɯzɑ
+miDAn	miten	miden
+ɑɰbiDA	ɑɰbite	ɑɰbide
+koʃmADAn	koʃmɑdɑn	koʃmɑtɑn

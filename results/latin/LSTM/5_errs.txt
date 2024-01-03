@@ -1,0 +1,5 @@
+uf	pred	sf
+kapulaLis	kapulalis	kapularis
+appelaLis	appelalis	appelaris
+famniliaLis	famnilialis	famniliaris
+etfamiliaLis	etfamilialis	etfamiliaris

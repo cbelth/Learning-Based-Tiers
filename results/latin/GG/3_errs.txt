@@ -1,0 +1,17 @@
+uf	pred	sf
+karmentaLis	karmentaris	karmentalis
+menstruaLis	menstruaris	menstrualis
+kadrigaLis	kadrigaris	kadrigalis
+korporaLis	korporaris	korporalis
+palmipedaLis	palmipedaris	palmipedalis
+kommortaLis	kommortaris	kommortalis
+trigonaLis	trigonaris	trigonalis
+originaLis	originaris	originalis
+nowerkaLis	nowerkaris	nowerkalis
+lustraLis	lustraris	lustralis
+wolataLis	wolataris	wolatalis
+latrokinaLis	latrokinaris	latrokinalis
+terminaLis	terminaris	terminalis
+artifikiaLis	artifikiaris	artifikialis
+iliberaLis	iliberaris	iliberalis
+dekemwiraLis	dekemwiraris	dekemwiralis

@@ -1,0 +1,9 @@
+uf	pred	sf
+urkeolaLis	urkeolalis	urkeolaris
+kapulaLis	kapulalis	kapularis
+tabulaLis	tabulalis	tabularis
+maniplaLis	maniplalis	maniplaris
+epulaLis	epulalis	epularis
+appelaLis	appelalis	appelaris
+etfamiliaLis	etfamilialis	etfamiliaris
+kolaLis	kolalis	kolaris

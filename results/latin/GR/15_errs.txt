@@ -1,0 +1,6 @@
+uf	pred	sf
+kapulaLis	kapulalis	kapularis
+latiaLis	latialis	latiaris
+maniplaLis	maniplalis	maniplaris
+appelaLis	appelalis	appelaris
+famniliaLis	famnilialis	famniliaris

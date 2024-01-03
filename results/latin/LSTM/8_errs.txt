@@ -1,0 +1,6 @@
+uf	pred	sf
+pedikulaLis	pedikulalis	pedikularis
+surkulaLis	surkulalis	surkularis
+epulaLis	epulalis	epularis
+etfamiliaLis	etfamilialis	etfamiliaris
+kolaLis	kolalis	kolaris

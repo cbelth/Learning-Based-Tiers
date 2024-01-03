@@ -1,0 +1,2 @@
++son-nas	[+wb][+wb]	(<#|#>)(b|d|e|g|i|k|m|n|o|p|t|u)*(<#|#>)
++son-nas	[-wb][][-wb]	(l|ɹ)(b|d|e|g|i|k|m|n|o|p|t|u)*(<#|#>|l|ɹ)(b|d|e|g|i|k|m|n|o|p|t|u)*(l|ɹ)

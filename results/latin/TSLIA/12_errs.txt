@@ -1,0 +1,17 @@
+uf	pred	sf
+perliberaLis	perliberaris	perliberalis
+inliberaLis	inliberaris	inliberalis
+pertaLis	pertaris	pertalis
+formaLis	formaris	formalis
+kadrigaLis	kadrigaris	kadrigalis
+armentaLis	armentaris	armentalis
+riuaLis	riuaris	riualis
+dorsuaLis	dorsuaris	dorsualis
+sepulkraLis	sepulkraris	sepulkralis
+latrokinaLis	latrokinaris	latrokinalis
+wiraLis	wiraris	wiralis
+turmaLis	turmaris	turmalis
+artifikiaLis	artifikiaris	artifikialis
+iliberaLis	iliberaris	iliberalis
+kentumwiraLis	kentumwiraris	kentumwiralis
+latiaLis	latiaris	latialis

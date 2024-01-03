@@ -1,0 +1,2 @@
+uf	pred	sf
+palmaLis	palmalis	palmaris

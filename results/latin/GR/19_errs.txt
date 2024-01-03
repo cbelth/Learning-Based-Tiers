@@ -1,0 +1,4 @@
+uf	pred	sf
+uulgaLis	uulgalis	uulgaris
+palmaLis	palmalis	palmaris
+latiaLis	latialis	latiaris

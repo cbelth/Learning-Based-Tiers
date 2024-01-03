@@ -1,0 +1,7 @@
+uf	pred	sf
+kapulaLis	kapulalis	kapularis
+tabulaLis	tabulalis	tabularis
+pedikulaLis	pedikulalis	pedikularis
+famniliaLis	famnilialis	famniliaris
+primipilaLis	primipilalis	primipilaris
+kolaLis	kolalis	kolaris

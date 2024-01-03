@@ -1,0 +1,4 @@
+uf	pred	sf
+auksiliaLis	auksilialis	auksiliaris
+kadrigaLis	kadrigaris	kadrigalis
+etfamiliaLis	etfamilialis	etfamiliaris
