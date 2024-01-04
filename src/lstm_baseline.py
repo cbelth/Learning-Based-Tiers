@@ -1,4 +1,3 @@
-import torch
 from pytorch_lightning import Trainer
 import optuna as opt
 import numpy as np

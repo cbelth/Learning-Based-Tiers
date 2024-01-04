@@ -19,6 +19,9 @@ class GGbaseline(PhonotacticModel):
 
         self.root_dir = os.path.dirname(os.path.abspath(__file__))
         self.path = f'{self.root_dir}/gg/data/temp'
+        if not os.path.exists(f'{self.root_dir}/gg/data/'):
+            os.mkdir(f'{self.root_dir}/gg/data/')
+            os.mkdir(f'{self.root_dir}/gg/data/temp/')
         self.test_path = f'{self.path}/TestingData.txt'
         self._write_ipa(ipa_file)
 
@@ -102,9 +105,7 @@ class GGbaseline(PhonotacticModel):
                             str_con = line[-1]
                             if self.verbose:
                                 print(proj, con, str_con)
-                            self.proj_info.append((proj, con, str_con))
-
-                        
+                            self.proj_info.append((proj, con, str_con))   
                 
         out_dir = f'{self.path}/out' # update new out_dir to `out/`
 

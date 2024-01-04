@@ -1,4 +1,3 @@
-import random
 import sigmapie
 
 from phonotactic_model import PhonotacticModel
