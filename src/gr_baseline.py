@@ -1,6 +1,5 @@
 from hmmlearn import hmm
 import numpy as np
-import random
 from collections import defaultdict
 
 from phonotactic_model import PhonotacticModel

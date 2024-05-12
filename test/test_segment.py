@@ -7,6 +7,7 @@ from segment_inventory import SegmentInventory
 class TestSegment(unittest.TestCase):
     def test_init(self):
         seg = Segment('b', feature_vec=[])
+        assert(seg)
 
     def test_string_eq_1(self):
         seg = Segment('b', feature_vec=[])

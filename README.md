@@ -1,65 +1,31 @@
 # A Learning-Based Account of Phonological Tiers
 
-**In Progress.** This will be the repository for the code for *A Learning-Based Account of Phonological Tiers* 
-
-The code is already here, and I will be rolling out documentation on setting it up, running it, and extending it to your own data. Stay tuned!  
+Code for the 2024 *Linguistic Inquiry* paper *A Learning-Based Account of Phonological Tiers*.
 
 ```bibtex
 @article{belth2024tiers,
   title={A Learning-Based Account of Phonological Tiers},
   author={Belth, Caleb},
   journal={Linguistic Inquiry},
-  note={In Press},
   year={2024},
-  publisher={MIT Press}
+  publisher={MIT Press},
+  url = {https://doi.org/10.1162/ling\_a\_00530},
 }
 ```
 
-## Usage Examples
+## Reproducing Results
 
-All examples assume that you are running from the ```src/``` directory. If this is not the case, you can add the ```src/``` directory to the current path, as shown below, before importing the code.
+The results are in the `results/` directory. If you wish to reproduce them, please see the script `exp.py` in the `experiments` directory. The script takes two arguments:
 
-```python
->> import sys
->> sys.path.append(path_to_src)
+```
+--exp-name / -e, type=str (one of Turkish-CHILDES|Turkish-Morpho|Finnish|Latin)
+--model / -m type=str, (one of D2L|GR|trigram|TSLIA|GG|LSTM)
 ```
 
-### Loading Data
+`exp-name` specifies which dataset to produce the results for. `model` specifies which model to run. The results are saved in the directory `results/{exp_name}/{model}`.
 
-Below is an example of how to load the Turkish CHILDES corpus.
+## Running on Your Own Data
 
-```python
->> from utils import load
->> pairs, freqs = load('../data/turkish/childes.txt', skip_header=True)
-```
+D2L will soon be implemented in the Python package [algophon](https://github.com/cbelth/algophon). This will make it easy to run the model on your own data. 
 
-### Running D2L
-
-Here is an example of running D2L on the first 1K words from the Turkish CHILDES corpus. See above for loading (UR, SR) pairs.
-
-```python
->> from plp import PLP
->> plp = PLP(ipa_file='../data/german/ipa.txt')
->> plp.train(pairs[:1000])
->> print(plp)
-1: {+voi,-son} --> [-voi] /  __ .
-```
-
-### Using Generalizations
-
-Once PLP is trained, as exemplified above, it can be used to map a UR to an SR. To apply all the rules in the grammar at once, you can simply call the model object on an input:
-
-```python
->> plp('hʊnd.')
-'hʊnt.'
-```
-
-If you want to apply rules individually, you can access them as follows:
-
-```python
->> plp.grammar.rules
-[{+voi,-son} --> [-voi] /  __ .]
->> r = plp.grammar.rules[0]
->> r('hʊnd.')
-'hʊnt.'
-```
+Until then, please see the `load` function in `utils.py` for how to load data, and `d2l.py` for the entry point to running D2L. For example data formats, see the files in `data/`.

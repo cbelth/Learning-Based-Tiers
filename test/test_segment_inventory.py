@@ -1,9 +1,7 @@
 from audioop import add
 import unittest
 import sys
-from collections import defaultdict
 sys.path.append('../src/')
-from utils import load, UNKNOWN_CHAR
 from natural_class import NaturalClass
 from segment_inventory import SegmentInventory
 

@@ -53,7 +53,7 @@ class GGbaseline(PhonotacticModel):
                         cand = ''.join(line[cand_id].split())
                         hx = float(line[hx_id])
                         scores[cand] = hx
-            else:
+            else: # if no tableau was created, the dataset was probably too small to learn any constraints from.
                 print(f'Tableau does not exist at {tableau}. Using random scores instead.')
                 scores = dict((cand, 0) for cand in candidates)
             os.system(f'rm -r {tableau_dir}/')

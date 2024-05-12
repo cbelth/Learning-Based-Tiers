@@ -8,6 +8,7 @@ import sys
 sys.path.append('../src/')
 
 from utils import load
+from d2l import D2L
 from plp_grammar import PLP_Grammar
 from gg_baseline import GGbaseline
 
@@ -109,7 +110,6 @@ if __name__ == '__main__':
         raise ValueError('Experiment name must be one of Turkish-CHILDES|Turkish-Morpho|Finnish|Latin')
 
     if args.model == 'D2L':
-        from d2l import D2L
         model_builder = lambda: D2L(ipa_file=ipa_file, verbose=False) if 'Turkish' not in args.exp_name else lambda: PLP_Grammar(ipa_file=ipa_file, verbose=False)
     elif args.model == 'trigram':
         from ngram import NGram
