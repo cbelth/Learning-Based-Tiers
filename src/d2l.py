@@ -113,8 +113,6 @@ class D2L(Model):
                     feat_diff = tuple(sorted(self.seginv.feat_diff(uf_seg, sf_seg)))
                     if self.discrepancy is None:
                         self.discrepancy = Discrepancy(feat_diff)
-                    if len(feat_diff) > len(self.discrepancy.feat_diff) and set(feat_diff).intersection(self.discrepancy.feat_diff) == set(self.discrepancy.feat_diff):
-                        self.discrepancy.feat_diff = tuple(feat_diff)
                     self.discrepancy.add(uf, i, uf_seg, sf_seg)
         
         return uf, sf
