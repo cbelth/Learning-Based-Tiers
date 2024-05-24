@@ -26,6 +26,4 @@ The results are in the `results/` directory. If you wish to reproduce them, plea
 
 ## Running on Your Own Data
 
-D2L will soon be implemented in the Python package [algophon](https://github.com/cbelth/algophon). This will make it easy to run the model on your own data. 
-
-Until then, please see the `load` function in `utils.py` for how to load data, and `d2l.py` for the entry point to running D2L. For example data formats, see the files in `data/`.
+D2L is implemented in the Python package [algophon](https://github.com/cbelth/algophon). I recommend that implementation for running the model on your own data—just `pip install algophon`!
